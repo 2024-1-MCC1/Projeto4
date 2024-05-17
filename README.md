@@ -66,6 +66,7 @@ Para abrir o projeto é necessário ter instalado o Unity, também será nesses�
 Para abrir este projeto você necessita das seguintes ferramentas:
 
 -<a href="https://unity.com/pt/download">UNITY</a>, utilizada a versão <a href="https://unity.com/releases/editor/whats-new/2022.3.10">Unity 2022.3.10f</a>
+
 -<a href="https://visualstudio.microsoft.com/pt-br/#vs-section">Visual Studio</a>
 
 ```sh
