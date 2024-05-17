@@ -56,7 +56,7 @@ Há também 4 pastas que seguem da seguinte forma:
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o ReFirestation.exe na pasta executáveis e execute-o como qualquer outro programa.
 
 
 ## 💻 Configuração para Desenvolvimento
