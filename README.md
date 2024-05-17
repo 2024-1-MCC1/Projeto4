@@ -32,11 +32,8 @@ O jogo "ReFirestation" é um projeto de desenvolvimento que visa contribuir na d
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
 
@@ -56,36 +53,20 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+Para abrir o projeto é necessário ter instalado o Unity, também será nessesário o Visual Studio, ambos você poderá instalar através dos links anexados abaixo.
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="https://unity.com/pt/download">UNITY</a>, utilizada a versão <a href="https://unity.com/releases/editor/whats-new/2022.3.10">Unity 2022.3.10f</a>
+-<a href="https://visualstudio.microsoft.com/pt-br/#vs-section">Visual Studio</a>
 
 ```sh
 make install
