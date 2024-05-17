@@ -154,4 +154,5 @@ Aqui estão as referências usadas no projeto.
 8. <https://assetstore.unity.com/packages/2d/gui/icons/371-simple-buttons-pack-97516>
 9. <https://creativecommons.org/share-your-work/>
 10. <https://freesound.org/>
-11. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+11. Música <https://freesound.org/people/Leonard.B.Blaesing/sounds/527314/> por <a href="https://freesound.org/people/Leonard.B.Blaesing/"> Leonard.B.Blaesing </a> com Licença CC BY-NC 4.0
+12. Som do tiro <https://freesound.org/people/Mrthenoronha/sounds/506670/> por <a href="https://freesound.org/people/Mrthenoronha/"> Mrthenoronha </a> com Licença CC BY-NC 4.0
