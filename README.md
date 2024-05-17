@@ -8,7 +8,7 @@
 
 ## Raízes Verdes
 
-## Integrantes: <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira (RA: 24026144)</a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas (RA: 24026073)</a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques (RA: 24025873)</a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami (RA: )</a>
+## Integrantes: <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira (RA: 24026144)</a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas (RA: 24026073)</a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques (RA: 24025873)</a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami (RA: 24026254)</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Rosetti</a>
 
