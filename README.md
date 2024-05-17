@@ -69,27 +69,69 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 
 -<a href="https://visualstudio.microsoft.com/pt-br/#vs-section">Visual Studio</a>
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
 ## 🗃 Histórico de lançamentos
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 1.0.0 - 17/05/2024
+    * Jogo disponível para todos
+    * Adicionado menu de opções para alterar a sensibilidade e volume do jogo
+    * Adicionado sistema de pontuação 
+    * MUDANÇA: Alterado alguns pequenos detalhes do hud, do menu e da tela de Game Over 
+* 0.4.3 - 15/05/2024
+    * Correção de bugs menores
+    * Adicionada música
+    * Adicionado som do tiro
+* 0.4.2 - 10/05/2024
+    * Arma adicionada
+* 0.4.1 - 08/05/2024
+    * Corrigido tiro empurrar o jogador
+    * Corrigido tiro não estar indo na direção correta
+    * Corrigido as hordas não acabarem
+    * Adicionado paredes invisíveis
+    * Melhora na velocidado do tiro
+* 0.4.0 - 04/05/2024
+    * Hordas adicionadas
+* 0.3.5 - 03/05/2024
+    * Correção do tiro crashar o jogo
+* 0.3.4 - 30/04/2024
+    * MUDANÇA: Alterado os tiro do jogador
+* 0.3.3 - 24/04/2024
+    * Correção nas árvores, o jogador travava nelas.
+    * Game Over adicionado quando a vida do jogador chega a zero
+* 0.3.2 - 22/04/2024
+    * MUDANÇA: Scripts adicionados no jogo principal
+* 0.3.1 - 19/04/2024
+    * MUDANÇA: Organização de Pasta
+    * MUDANÇA: HUD de vida alterado
+    * Spawn dos Inimigos
+    * Arma e tiros adicionados
+* 0.3.0 - 17/04/2024
+    * Vida do jogador
+    * Vida do inimigo
+* 0.2.4 - 12/04/2024
+    * MUDANÇA: Menu alterado
+    * Menu de Pause funcionando
+    * Mapa finalizado
+* 0.2.3 - 11/04/2024
+    * Inimigo atirando
+* 0.2.2 - 10/04/2024
+    * Inimigo adicionado
+* 0.2.1 - 10/04/2024
+    * Inimigo criado
+    * Menu Principal adicionado
+    * Mapa Continuado
+* 0.2.0 - 10/04/2024
+    * Inimigo adicionado
+* 0.1.2 - 03/04/2024
+    * Correção feita no mapa
+    * MUDANÇA: Organização básica do projeto e pastas
+    * MUDANÇA: Deletado arquivos inúteis
+* 0.1.1 - 02/04/2024
+    * Metade do Mapa desenvolvido
+* 0.1.0 - 27/03/2024
+    * Movimentação e Câmera funcionando
+* 0.0.1 - 27/03/2024
     * Trabalho em andamento
 
 ## 📋 Licença/License
