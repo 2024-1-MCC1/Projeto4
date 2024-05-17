@@ -16,9 +16,8 @@
 
 <p align="center">
 <img src="https://i.ibb.co/M6J0zmx/Imagem-para-a-capa.jpg" alt="NOME DO JOGO" border="0">
-  ReFirestation by <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira </a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas </a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques </a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami </a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
-
+  
+  ReFirestation by <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira </a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas </a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques </a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami </a>, <a rel="license" href="[https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by/4.0/)">CC BY 4.0 DEED</a>
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
