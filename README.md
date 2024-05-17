@@ -4,19 +4,19 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# ReFirestation
 
-## Nome do Grupo
+## Raízes Verdes
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira (RA: 24026144)</a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas (RA: 24026073)</a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques (RA: 24025873)</a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami (RA: )</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Rosetti</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://i.ibb.co/M6J0zmx/Imagem-para-a-capa.jpg" alt="NOME DO JOGO" border="0">
+  ReFirestation by <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira </a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas </a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques </a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami </a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
