@@ -17,7 +17,7 @@
 <p align="center">
 <img src="https://i.ibb.co/M6J0zmx/Imagem-para-a-capa.jpg" alt="NOME DO JOGO" border="0">
   
-  ReFirestation by <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira </a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas </a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques </a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami </a>, <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 DEED</a>
+  ReFirestation by <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira </a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas </a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques </a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami </a>, <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International</a>
 
 O jogo "ReFirestation" é um projeto de desenvolvimento que visa contribuir na disseminação dos <a href="https://brasil.un.org/pt-br/sdgs">Objetivos de Desenvolvimento Sustentável (ODS)</a>, estabelecidos pela Organização das Nações Unidas (ONU). Nosso foco reside especialmente nos <a href="https://brasil.un.org/pt-br/sdgs/13">ODS 13 </a> e <a href="https://brasil.un.org/pt-br/sdgs/15">ODS 15 </a>. Por meio deste jogo, concebido como um First Person Shooter (FPS), buscamos sensibilizar os jogadores sobre a importância da preservação ambiental. Nele, os participantes assumem o papel de protetores da floresta, lutando contra criaturas de fogo que ameaçam consumi-la até se reduzir a cinzas.
 <br><br>
@@ -154,5 +154,5 @@ Aqui estão as referências usadas no projeto.
 8. <https://assetstore.unity.com/packages/2d/gui/icons/371-simple-buttons-pack-97516>
 9. <https://creativecommons.org/share-your-work/>
 10. <https://freesound.org/>
-11. Música <https://freesound.org/people/Leonard.B.Blaesing/sounds/527314/> por <a href="https://freesound.org/people/Leonard.B.Blaesing/"> Leonard.B.Blaesing </a> com Licença CC BY-NC 4.0
-12. Som do tiro <https://freesound.org/people/Mrthenoronha/sounds/506670/> por <a href="https://freesound.org/people/Mrthenoronha/"> Mrthenoronha </a> com Licença CC BY-NC 4.0
+11. Música <https://freesound.org/people/Leonard.B.Blaesing/sounds/527314/> por <a href="https://freesound.org/people/Leonard.B.Blaesing/"> Leonard.B.Blaesing </a> com Licença Attribution 4.0 International
+12. Som do tiro <https://freesound.org/people/Mrthenoronha/sounds/506670/> por <a href="https://freesound.org/people/Mrthenoronha/"> Mrthenoronha </a> com Licença Attribution 4.0 International
