@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira (RA: 24026144)</a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas (RA: 24026073)</a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques (RA: 24025873)</a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami (RA: 24026254)</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Rosetti</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Queiroz</a>
 
 ## Descrição
 
@@ -144,8 +144,14 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://www.youtube.com/playlist?list=PL5rWD7ClA0dYBAz33XizuHjMdIvu8ru7R>
+2. <https://assetstore.unity.com/packages/3d/characters/stone-monster-101433>
+3. <https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742>
+4. <https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-pack-57866>
+5. <https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353>
+6. <https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153>
+7. <https://assetstore.unity.com/packages/3d/props/weapons/3d-guns-guns-pack-228975>
+8. <https://assetstore.unity.com/packages/2d/gui/icons/371-simple-buttons-pack-97516>
+9. <https://creativecommons.org/share-your-work/>
+10. <https://freesound.org/>
+11. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
