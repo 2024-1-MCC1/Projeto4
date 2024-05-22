@@ -6,7 +6,7 @@ using UnityEngine;
 public class Camera : MonoBehaviour
 {
     internal static object main;
-    public float sensX;
+    private float sensX;
     private float sensY;
     
 

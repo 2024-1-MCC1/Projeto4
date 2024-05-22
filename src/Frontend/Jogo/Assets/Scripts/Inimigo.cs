@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Inimigo : MonoBehaviour
 {
-    public float speed = 3f; // Velocidade de movimento do inimigo
-    public float stoppingDistance = 2f; // Distancia de parada para comecar a perseguir o jogador
+    private float speed = 5f; // Velocidade de movimento do inimigo
+    private float stoppingDistance = 2f; // Distancia de parada para comecar a perseguir o jogador
     private Transform target; // Referencia ao transform do jogador
-    public int vidaInimigo = 10;
+    private int vidaInimigo = 10;
     void Start()
     {
         // Encontrar o transform do jogador

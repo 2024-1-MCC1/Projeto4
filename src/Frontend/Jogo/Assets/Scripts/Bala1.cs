@@ -16,7 +16,7 @@ public class Bala1 : MonoBehaviour
     public GameObject enemyBullet;
     public Transform spawnPoint;
     //Velocidade da bala inimiga
-    public float enemySpeed;
+    private float enemySpeed = 2000;
 
     // Start e chamado antes da primeira atualizacao do frame
     void Start()

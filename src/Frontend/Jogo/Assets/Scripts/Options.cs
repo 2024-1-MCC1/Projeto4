@@ -9,8 +9,7 @@ public class Options : MonoBehaviour
 
     public Slider VolumeSlider, SensiSlider;
     public AudioMixer audioMixer;
-    public float volumevalue;
-    public float sensi;
+    private float volumevalue, sensi;
 
     void Start()
     {

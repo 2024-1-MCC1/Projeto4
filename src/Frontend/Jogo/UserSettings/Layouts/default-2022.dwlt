@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1366
     height: 685
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 203
     height: 406
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40
+  controlID: 41
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 39
+  controlID: 40
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,8 +146,8 @@ MonoBehaviour:
     y: 0
     width: 301
     height: 635
-  m_MinSize: {x: 276, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 38
+  controlID: 39
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -532,7 +532,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c491feff
+      m_ExpandedIDs: b28effff028fffff1e92ffff3e92ffff2096ffff7096ffffd697ffffac99ffffd49dffff249effff62a1ffff82a1ffffc6a8ffff16a9ffff54acffff74acffff38b7ffffbaceffff56dcffff46f8ffff24fbffff04640000c664000032670000d2820000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -611,14 +611,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 67
-  m_LastProjectPath: C:\Users\24026144.GLOBAL\Documents\GitHub\Projeto4\src\Frontend\Jogo
+  m_LastProjectPath: C:\Users\24026144.GLOBAL\Documents\GitHub\Jogo-Refirestation\Jogo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 20}
-    m_SelectedIDs: f0410000
-    m_LastClickedID: 16880
-    m_ExpandedIDs: 00000000d040000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 36}
+    m_SelectedIDs: 56650000
+    m_LastClickedID: 25942
+    m_ExpandedIDs: 000000004265000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -646,7 +646,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000042650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -673,7 +673,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: f4b400009297000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -743,7 +743,7 @@ MonoBehaviour:
     m_ControlHash: 1412526313
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 1630
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -1118,9 +1118,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 422.84247, y: -101.66288, z: 420.80576}
+    m_Target: {x: 361.8821, y: 234.58366, z: -129.41191}
     speed: 2
-    m_Value: {x: 422.84247, y: -101.66288, z: 420.80576}
+    m_Value: {x: 361.8821, y: 234.58366, z: -129.41191}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1166,9 +1166,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.11071319, y: -0.8885448, z: 0.33536714, w: 0.29337275}
+    m_Target: {x: 0.096700676, y: -0.03523089, z: 0.0034356907, w: 0.994839}
     speed: 2
-    m_Value: {x: -0.11069615, y: 0.88840806, z: -0.33531553, w: -0.2933276}
+    m_Value: {x: 0.09668575, y: -0.03522545, z: 0.0034351603, w: 0.9946855}
   m_Size:
     m_Target: 102.52415
     speed: 2
