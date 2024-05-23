@@ -1,0 +1,9 @@
+# ReFirestation
+
+- Um jogo First Person Shooter (FPS), com o foco de sobreviver o máximo número possível de hordas.
+
+- O jogo ReFirestation tem como foco disseminar a importância de proteger as florestas das ações antrópicas, que afetam a vida terrestre e mudança climática, dessa forma, o First Person Shooter (FPS) tem como objetivo conseguir o maior número de hordas de monstros contínuas sobrevividas e acumular a maior pontuação que o jogador conseguir.
+
+- TAGS: FPS e HORDE
+
+- A print está presente na pasta "imagens" no GitHub.
