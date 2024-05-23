@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://github.com/AntonioPetri">Antônio Petri de Moraes Soares de Moura e Oliveira (RA: 24026144)</a>, <a href="https://github.com/LuisFeitas">Luis Felipe Nascimento Freitas (RA: 24026073)</a>, <a href="https://github.com/RafaMoraesMarques">Rafael Moraes Marques (RA: 24025873)</a>, <a href="https://github.com/ThiagoAkira0">Thiago Akira Higa Mitami (RA: 24026254)</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Queiroz</a>, <a href="https://br.linkedin.com/in/fabiano-on%C3%A7a-3214a12">Prof. Fabiano Onça</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Prof. Adriano Valente de Queiroz</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Queiroz</a>, <a href="https://br.linkedin.com/in/fabiano-on%C3%A7a-3214a12">Prof. Fabiano Onça</a> e <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Prof. Adriano Valente.</a>
 
 ## Descrição
 
