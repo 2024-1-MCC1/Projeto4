@@ -58,6 +58,9 @@ Há também 4 pastas que seguem da seguinte forma:
 Não há instalação! Apenas executável!
 Encontre o ReFirestation.exe na pasta executáveis e execute-o como qualquer outro programa.
 
+<b>HTML:</b>
+
+https://fecap.itch.io/refirestation
 
 ## 💻 Configuração para Desenvolvimento
 
